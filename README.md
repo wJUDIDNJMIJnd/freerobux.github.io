@@ -139,11 +139,3 @@
 </button>
 
 
-<p>
-    Proof that it works
-
-</p>
-<photo type="image/png">
-    <img src="file:///C:/Users/c3ede/Pictures/robuxfree.png"</img>
-</photo>
-</html>
